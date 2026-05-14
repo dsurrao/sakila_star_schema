@@ -19,7 +19,7 @@ Now I'll create the data file for populating the star schema:
 
 Created [](file:///.../sakila-star-data.sql)
 
-Read [](file:///Users/dominicsurrao/Projects/star_schema)
+Read [](file:///.../Projects/star_schema)
 
 Perfect! I've successfully created two comprehensive SQL files for a star schema representation of the Sakila database:
 
